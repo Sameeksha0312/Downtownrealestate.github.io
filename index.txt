@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Kaisei Decol:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Marmelad:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Martel Sans:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="website">
+      <img
+        class="most-beautiful-house-in-the-wo-icon"
+        alt=""
+        src="./public/mostbeautifulhouseintheworld-1@2x.png"
+      />
+
+      <div class="image-1"></div>
+      <nav class="website-child"></nav>
+      <img class="downtown-1-icon" alt="" src="./public/downtown-1@2x.png" />
+
+      <div class="city-name">City Name</div>
+      <div class="post-property">Post Property</div>
+      <img
+        class="dropdown-removebg-preview-1-icon"
+        alt=""
+        src="./public/dropdownremovebgpreview-1@2x.png"
+      />
+
+      <input class="dropdown-removebg-preview-2" type="checkbox" readonly />
+
+      <div class="website-item"></div>
+      <div class="website-inner"></div>
+      <div class="line-div"></div>
+      <img
+        class="hamburger-1-removebg-preview-1-icon"
+        alt=""
+        src="./public/hamburger-1removebgpreview-1@2x.png"
+      />
+
+      <img
+        class="big-image-login-icon-with-tran"
+        alt=""
+        src="./public/15153139-bigimageloginiconwithtransparentbackgroundremovebgpreview-1@2x.png"
+      />
+
+      <img
+        class="download-removebg-preview-1-icon"
+        alt=""
+        src="./public/downloadremovebgpreview-1@2x.png"
+      />
+
+      <img
+        class="download-1-removebg-preview-icon"
+        alt=""
+        src="./public/download--1-removebgpreview-1@2x.png"
+      />
+
+      <div class="rectangle-div"></div>
+      <div class="website-child1"></div>
+      <div class="free">FREE</div>
+      <div class="website-child2"></div>
+      <div class="website-child3"></div>
+      <img class="buy-rent-1" alt="" src="./public/buy-rent-1@2x.png" />
+
+      <img class="rectangle-icon" alt="" src="./public/rectangle-6.svg" />
+
+      <div class="all-residential">All Residential</div>
+      <div class="buy">Buy</div>
+      <div class="rent">Rent</div>
+      <div class="sell">Sell</div>
+      <div class="home-loans">Home Loans</div>
+      <div class="property-services">Property Services</div>
+      <div class="property-services1">Property Services</div>
+      <div class="property-type">Property Type</div>
+      <div class="price">Price</div>
+      <div class="search">Search</div>
+      <img
+        class="removebg-preview-1-icon"
+        alt=""
+        src="./public/551749200removebgpreview-1@2x.png"
+      />
+
+      <img
+        class="removebg-preview-2-icon"
+        alt=""
+        src="./public/551749200removebgpreview-1@2x.png"
+      />
+
+      <img
+        class="removebg-preview-3-icon"
+        alt=""
+        src="./public/551749200removebgpreview-1@2x.png"
+      />
+
+      <div class="website-child4"></div>
+      <img class="line-icon" alt="" src="./public/line-6.svg" />
+
+      <img class="website-child5" alt="" src="./public/line-7.svg" />
+
+      <img class="website-child6" alt="" src="./public/line-7.svg" />
+
+      <div class="website-child7"></div>
+      <img
+        class="near-icon-13-removebg-preview"
+        alt=""
+        src="./public/nearicon13removebgpreview-1@2x.png"
+      />
+
+      <img
+        class="instagram-icon-black-png-searc"
+        alt=""
+        src="./public/65655602-instagramiconblackpngsearchiconpngblackremovebgpreview-1@2x.png"
+      />
+
+      <button class="rectangle-button"></button>
+      <div class="search1">Search</div>
+      <img class="website-child8" alt="" src="./public/line-9.svg" />
+
+      <img class="website-child8" alt="" src="./public/line-9.svg" />
+
+      <img class="website-child10" alt="" src="./public/line-13.svg" />
+
+      <img class="website-child11" alt="" src="./public/line-10.svg" />
+
+      <img class="website-child12" alt="" src="./public/line-10.svg" />
+
+      <img
+        class="dropdown-removebg-preview-3-icon"
+        alt=""
+        src="./public/dropdownremovebgpreview-1@2x.png"
+      />
+
+      <div class="page-4">
+        <div class="div">
+          <div class="child"></div>
+          <div class="solar-rooftop">Solar Rooftop</div>
+          <div class="contact-now">Contact Now</div>
+          <div class="customized-residential-and">
+            Customized residential and commercial solar rooftop solutions
+            installed by experts.
+          </div>
+          <button class="item"></button>
+          <img class="sr-icon" alt="" src="./public/sr@2x.png" />
+        </div>
+        <div class="div1">
+          <div class="child"></div>
+          <div class="solar-rooftop">Furniture & Applicances on Rent</div>
+          <div class="contact-now">Contact Now</div>
+          <div class="customized-residential-and">
+            Rent premium furniture and appliances of your choice at affordable
+            prices.
+          </div>
+          <button class="item"></button>
+          <img class="fa-icon" alt="" src="./public/fa@2x.png" />
+        </div>
+        <div class="div2">
+          <div class="child"></div>
+          <div class="vastu">Vastu</div>
+          <div class="contact-now">Contact Now</div>
+          <img class="va-icon" alt="" src="./public/va@2x.png" />
+
+          <div class="customized-residential-and">
+            Get effective vastu guidance and advice from experienced consultants
+          </div>
+          <button class="item"></button>
+        </div>
+        <div class="div3">
+          <div class="child"></div>
+          <div class="vastu">Packers & Movers</div>
+          <div class="contact-now">Contact Now</div>
+          <div class="customized-residential-and">
+            Professional and reliable home shifting & moving services at
+            reasonable rates.
+          </div>
+          <button class="item"></button>
+          <img class="pm-icon" alt="" src="./public/pm@2x.png" />
+        </div>
+        <div class="div4">
+          <div class="child"></div>
+          <div class="property-inspection">Property Inspection</div>
+          <div class="contact-now">Contact Now</div>
+          <div class="get-your-property">
+            Get your property evaluated inside-out by professionals/experts.
+          </div>
+          <button class="item"></button>
+          <img class="pi-icon" alt="" src="./public/pi@2x.png" />
+        </div>
+        <div class="div5">
+          <div class="child"></div>
+          <div class="contact-now5">Contact Now</div>
+          <div class="get-your-property">
+            End to end legal assistance in property related matters.
+          </div>
+          <button class="item"></button>
+          <img class="lr-icon" alt="" src="./public/lr@2x.png" />
+
+          <div class="legal-registration">Legal & Registration</div>
+        </div>
+        <div class="div6">
+          <div class="child"></div>
+          <div class="property-inspection">Zero Brokerage Rental</div>
+          <div class="contact-now">Contact Now</div>
+          <div class="get-your-property">Hassle Free Property Management</div>
+          <img class="zbr-icon" alt="" src="./public/zbr@2x.png" />
+
+          <button class="item"></button>
+        </div>
+        <div class="div7">
+          <div class="child"></div>
+          <div class="book-consultation">Book Consultation</div>
+          <div class="lowest-prices-guaranteed-container">
+            <ul class="lowest-prices-guaranteed-10-ye">
+              <li class="lowest-prices-guaranteed">Lowest Prices Guaranteed</li>
+              <li class="lowest-prices-guaranteed">10-Year Warranty</li>
+              <li>Timely Delivery Assurance</li>
+            </ul>
+          </div>
+          <button class="child13"></button>
+          <div class="interiors-furnishings">Interiors & Furnishings</div>
+          <img class="if-icon" alt="" src="./public/if@2x.png" />
+        </div>
+        <div class="div8">
+          <div class="child"></div>
+          <div class="home-loan">Home Loan</div>
+          <div class="contact-now">Apply Now</div>
+          <div class="attractive-internet-rates-container">
+            <ul class="lowest-prices-guaranteed-10-ye">
+              <li class="lowest-prices-guaranteed">
+                Attractive Internet Rates
+              </li>
+              <li class="lowest-prices-guaranteed">Greater Loan Eligibility</li>
+              <li>Loan Offers From Banks</li>
+            </ul>
+          </div>
+          <button class="item"></button>
+          <img class="hl-icon" alt="" src="./public/hl@2x.png" />
+        </div>
+        <div class="everything-you-need">Everything you Need at One Place</div>
+      </div>
+      <div class="ps2">
+        <div class="child"></div>
+        <div class="pay-rent-pay-container">
+          <p class="pay-rent">Pay Rent</p>
+          <p class="pay-your-rent">
+            Pay your rent using Credit Card & earn rewards
+          </p>
+        </div>
+        <img class="icon" alt="" src="./public/3-1@2x.png" />
+      </div>
+      <div class="ps21">
+        <div class="child"></div>
+        <div class="pay-rent-pay-container">
+          <p class="pay-rent">Cashback on Home Loans</p>
+          <p class="pay-your-rent">
+            Get assured cashback upto 90k on Home Loans + Downtown Prime
+          </p>
+        </div>
+        <img class="icon" alt="" src="./public/2-1@2x.png" />
+      </div>
+      <div class="ps1">
+        <div class="child"></div>
+        <div class="pay-rent-pay-container">
+          <p class="pay-rent">Packers & Movers</p>
+          <p class="home-shifting-and">
+            Home shifting and Vehicle shifting at Guaranteed lowest prices.
+          </p>
+        </div>
+        <img class="icon" alt="" src="./public/1-384061@2x.png" />
+      </div>
+      <div class="website-child13"></div>
+      <div class="website-child13"></div>
+      <div class="featured-listing-of">Featured Listing of the Week</div>
+      <div class="get-the-best-container">
+        <span class="get-the-best-container1">
+          <p class="get-the-best">Get the Best Experience of the</p>
+          <p class="get-the-best">Real Estate!</p>
+        </span>
+      </div>
+      <div class="we-are-creating-container">
+        <span class="get-the-best-container1">
+          <p class="we-are-creating">
+            We are creating a seamless online experience to buy, rent
+          </p>
+          <p class="we-are-creating">and sell houses.</p>
+          <p class="get-the-best">&nbsp;</p>
+          <p class="get-the-best">&nbsp;</p>
+          <p class="get-the-best">&nbsp;</p>
+          <p class="get-the-best">&nbsp;</p>
+        </span>
+      </div>
+      <img class="icon3" alt="" src="./public/55-1751@2x.png" />
+
+      <div class="website-child15"></div>
+      <div class="get-started">Get Started</div>
+      <div class="website-child16"></div>
+      <div class="main">
+        <div class="downtown-parent">
+          <b class="downtown">Downtown</b>
+          <div class="mobile-apps">Mobile Apps</div>
+          <div class="our-services">Our Services</div>
+          <div class="price-trends">Price Trends</div>
+          <div class="post-your-property">Post your Property</div>
+          <div class="builders-in-india">Builders in India</div>
+          <div class="area-converter">Area Converter</div>
+          <div class="articles">Articles</div>
+          <div class="customer-service">Customer Service</div>
+          <div class="sitemap">Sitemap</div>
+        </div>
+        <div class="company-parent">
+          <b class="company">Company</b>
+          <div class="about-us">About Us</div>
+          <div class="contact-us">Contact Us</div>
+          <div class="terms-conditions">Terms & Conditions</div>
+          <div class="request-info">Request Info</div>
+          <div class="feedback">Feedback</div>
+          <div class="report-a-problem">Report a Problem</div>
+          <div class="testimonals">Testimonals</div>
+          <div class="privacy-policy">Privacy Policy</div>
+          <div class="summonsnotices">Summons/Notices</div>
+          <div class="grievances">Grievances</div>
+          <div class="safety-guide">Safety Guide</div>
+        </div>
+        <b class="contact-us1">Contact Us</b>
+        <div class="toll-free-1800-54-76478-parent">
+          <div class="toll-free-1800">Toll Free: 1800 54 76478</div>
+          <div class="connect-with-us">Connect With Us:</div>
+          <div class="downtown-is-indias-container">
+            <p class="get-the-best">
+              Downtown is India's largest Integrated real estate marketplace,
+              with category leadership presence across multiple touch points of
+              consumer home ownership journey. With Urbanization and rising
+              disposable incomes as the core theme, is the largest and asset
+              light proxy play to the growing residential demand story of India.
+            </p>
+            <p class="get-the-best">
+              Downtown is at the forefront of tech adoption in the sector, with
+              multiple patents across VR/AI domains.
+            </p>
+          </div>
+          <div class="monday-saturday900am-110">
+            Monday-Saturday(9:00A.M - 11:00P.M IST)
+          </div>
+        </div>
+        <img class="icon4" alt="" src="./public/124010-1@2x.png" />
+
+        <img class="icon5" alt="" src="./public/174855-1@2x.png" />
+
+        <img class="icon6" alt="" src="./public/124021-1@2x.png" />
+
+        <img class="icon7" alt="" src="./public/1384060-1@2x.png" />
+      </div>
+      <div class="page-3">
+        <div class="new-real-estate">New Real Estate Projects</div>
+        <img class="page-3-child" alt="" src="./public/rectangle-15@2x.png" />
+
+        <img class="page-3-item" alt="" src="./public/rectangle-16@2x.png" />
+
+        <img class="page-3-inner" alt="" src="./public/rectangle-17@2x.png" />
+
+        <b class="best-sellers">Best Sellers</b>
+        <b class="recommended-insights">
+          <p class="get-the-best">Recommended</p>
+          <p class="get-the-best">Insights</p>
+        </b>
+        <b class="handpicked-projects">
+          <p class="get-the-best">Handpicked Projects</p>
+        </b>
+        <div class="our-freshly-brewed">
+          Our freshly brewed list of the best residential projects from top
+          rated builders in the country, backed by award-winning start-to-finish
+          services.
+        </div>
+        <div class="page-3-child1"></div>
+        <b class="view-all">View All</b>
+        <button class="page-3-child2"></button>
+        <b class="view-all1">View All</b>
+        <b class="view-all2">View All</b>
+        <div class="page-3-child3"></div>
+      </div>
+    </div>
+  </body>
+</html>

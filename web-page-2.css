@@ -1,0 +1,290 @@
+.web-page-2-child {
+  position: absolute;
+  top: 175px;
+  left: 760px;
+  background-color: var(--color-darkslategray-700);
+  width: 654px;
+  height: 510px;
+}
+.downtown-1-icon2,
+.web-page-2-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 52px;
+}
+.web-page-2-inner {
+  background-color: var(--color-darkslategray-400);
+  width: 1444px;
+}
+.downtown-1-icon2 {
+  width: 106px;
+  object-fit: cover;
+}
+.city-name2,
+.featured-listing-of1 {
+  position: absolute;
+  top: 7px;
+  left: 119px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 168px;
+  height: 42px;
+}
+.featured-listing-of1 {
+  top: 154px;
+  left: 33px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-marmelad);
+  color: var(--color-darkslategray-200);
+  width: 489px;
+}
+.get-the-best1 {
+  margin: 0;
+}
+.get-the-best-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.get-the-best-container2 {
+  position: absolute;
+  top: 229px;
+  left: 33px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-200);
+  display: flex;
+  align-items: center;
+  width: 596px;
+  height: 88px;
+}
+.we-are-creating1 {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+}
+.post-property2,
+.we-are-creating-container2 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+}
+.we-are-creating-container2 {
+  top: 494px;
+  left: 51px;
+  font-family: var(--font-tajawal);
+  color: var(--color-darkslategray-200);
+  display: flex;
+  align-items: center;
+  width: 596px;
+}
+.post-property2 {
+  top: 16px;
+  left: 936px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  height: 42px;
+}
+.dropdown-removebg-preview-1-icon2,
+.dropdown-removebg-preview-2-icon1 {
+  position: absolute;
+  top: 18px;
+  left: 266px;
+  width: 22px;
+  height: 21px;
+  object-fit: cover;
+}
+.dropdown-removebg-preview-2-icon1 {
+  top: 21px;
+  left: 1351px;
+}
+.web-page-2-child1,
+.web-page-2-child2,
+.web-page-2-child3 {
+  position: absolute;
+  top: 9.5px;
+  left: 297.5px;
+  border-right: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1px;
+  height: 38px;
+}
+.web-page-2-child2,
+.web-page-2-child3 {
+  top: 8.5px;
+  left: 1219.5px;
+}
+.web-page-2-child3 {
+  left: 1375.5px;
+}
+.big-image-login-icon-with-tran2,
+.hamburger-1-removebg-preview-1-icon2 {
+  position: absolute;
+  top: 6px;
+  left: 1383px;
+  width: 50px;
+  height: 41px;
+  object-fit: cover;
+}
+.big-image-login-icon-with-tran2 {
+  left: 1317px;
+  width: 34px;
+  height: 39px;
+}
+.download-removebg-preview-1-icon2 {
+  position: absolute;
+  top: 13px;
+  left: 1276px;
+  width: 31px;
+  height: 29px;
+  object-fit: cover;
+}
+.download-1-removebg-preview-icon2 {
+  position: absolute;
+  top: 8px;
+  left: 1234px;
+  width: 32px;
+  height: 35px;
+  object-fit: cover;
+}
+.web-page-2-child4 {
+  position: absolute;
+  top: 11px;
+  left: 965px;
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-mediumseagreen);
+  box-sizing: border-box;
+  width: 245px;
+  height: 33px;
+}
+.free2,
+.web-page-2-child5 {
+  position: absolute;
+  left: 1117px;
+  width: 85px;
+}
+.web-page-2-child5 {
+  top: 18px;
+  background-color: var(--color-gray-100);
+  height: 19px;
+}
+.free2 {
+  top: 16px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-kaisei-decol);
+  color: var(--color-darkslategray-300);
+  text-align: center;
+  display: inline-block;
+}
+.web-page-2-child6 {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  background-color: var(--color-darkslategray-600);
+  width: 1444px;
+  height: 54px;
+}
+.buy2,
+.home-loans2,
+.property-services3,
+.rent2,
+.sell2 {
+  position: absolute;
+  top: 66px;
+  left: 18px;
+  display: inline-block;
+  width: 70px;
+  height: 42px;
+}
+.home-loans2,
+.property-services3,
+.rent2,
+.sell2 {
+  left: 104px;
+}
+.home-loans2,
+.property-services3,
+.sell2 {
+  top: 64px;
+  left: 190px;
+}
+.home-loans2,
+.property-services3 {
+  top: 66px;
+  left: 277px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+  width: 144px;
+}
+.property-services3 {
+  left: 456px;
+  width: 211px;
+}
+.web-page-2-child7,
+.web-page-2-child9 {
+  position: absolute;
+  top: 52px;
+  left: 258px;
+  width: 183px;
+  height: 54px;
+}
+.web-page-2-child9 {
+  left: 439px;
+  width: 251px;
+}
+.web-page-2-child10,
+.web-page-2-child11 {
+  position: absolute;
+  top: 52px;
+  left: 172px;
+  width: 88px;
+  height: 54px;
+}
+.web-page-2-child11 {
+  left: 86px;
+}
+.dropdown-removebg-preview-3-icon2,
+.icon12 {
+  position: absolute;
+  top: 75px;
+  left: 661px;
+  width: 22px;
+  height: 21px;
+  object-fit: cover;
+}
+.icon12 {
+  top: 215px;
+  width: 715px;
+  height: 654px;
+}
+.get-started1,
+.web-page-2-child12 {
+  position: absolute;
+  top: 824px;
+  left: 174px;
+  width: 256px;
+  height: 64px;
+}
+.web-page-2-child12 {
+  background-color: var(--color-teal-100);
+}
+.get-started1 {
+  font-size: var(--font-size-17xl);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.web-page-2 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1020px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

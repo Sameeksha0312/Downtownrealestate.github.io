@@ -1,0 +1,547 @@
+.downtown-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 106px;
+  height: 52px;
+  object-fit: cover;
+}
+.tool-bar-child {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  background-color: var(--color-darkslategray-600);
+  width: 1444px;
+  height: 54px;
+}
+.buy3,
+.home-loans3,
+.property-services4,
+.rent3,
+.sell3 {
+  position: absolute;
+  top: 66px;
+  left: 18px;
+  display: inline-block;
+  width: 70px;
+  height: 42px;
+}
+.home-loans3,
+.property-services4,
+.rent3,
+.sell3 {
+  left: 104px;
+}
+.home-loans3,
+.property-services4,
+.sell3 {
+  top: 64px;
+  left: 190px;
+}
+.home-loans3,
+.property-services4 {
+  top: 66px;
+  left: 277px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+  width: 144px;
+}
+.property-services4 {
+  left: 456px;
+  width: 211px;
+}
+.tool-bar-child1,
+.tool-bar-item {
+  position: absolute;
+  top: 52px;
+  left: 258px;
+  width: 183px;
+  height: 54px;
+}
+.tool-bar-child1 {
+  left: 439px;
+  width: 251px;
+}
+.tool-bar-child2,
+.tool-bar-child3,
+.tool-bar-child4 {
+  position: absolute;
+  top: 52px;
+  left: 172px;
+  width: 88px;
+  height: 54px;
+}
+.tool-bar-child3,
+.tool-bar-child4 {
+  left: 86px;
+}
+.tool-bar-child4 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-400);
+  width: 1444px;
+  height: 52px;
+}
+.dropdown-removebg-preview-3-icon3 {
+  position: absolute;
+  top: 75px;
+  left: 661px;
+  width: 22px;
+  height: 21px;
+  object-fit: cover;
+}
+.city-name3,
+.post-property3 {
+  position: absolute;
+  top: 7px;
+  left: 119px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 168px;
+  height: 42px;
+}
+.post-property3 {
+  top: 16px;
+  left: 936px;
+  font-size: var(--font-size-xl);
+  text-align: center;
+  width: 208px;
+}
+.dropdown-removebg-preview-1-icon3,
+.dropdown-removebg-preview-2-icon2 {
+  position: absolute;
+  top: 18px;
+  left: 266px;
+  width: 22px;
+  height: 21px;
+  object-fit: cover;
+}
+.dropdown-removebg-preview-2-icon2 {
+  top: 21px;
+  left: 1351px;
+}
+.tool-bar-child5,
+.tool-bar-child6,
+.tool-bar-child7 {
+  position: absolute;
+  top: 9.5px;
+  left: 297.5px;
+  border-right: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1px;
+  height: 38px;
+}
+.tool-bar-child6,
+.tool-bar-child7 {
+  top: 8.5px;
+  left: 1219.5px;
+}
+.tool-bar-child7 {
+  left: 1375.5px;
+}
+.big-image-login-icon-with-tran3,
+.hamburger-1-removebg-preview-1-icon3 {
+  position: absolute;
+  top: 6px;
+  left: 1383px;
+  width: 50px;
+  height: 41px;
+  object-fit: cover;
+}
+.big-image-login-icon-with-tran3 {
+  left: 1317px;
+  width: 34px;
+  height: 39px;
+}
+.download-removebg-preview-1-icon3 {
+  position: absolute;
+  top: 13px;
+  left: 1276px;
+  width: 31px;
+  height: 29px;
+  object-fit: cover;
+}
+.download-1-removebg-preview-icon3 {
+  position: absolute;
+  top: 8px;
+  left: 1234px;
+  width: 32px;
+  height: 35px;
+  object-fit: cover;
+}
+.tool-bar-child8 {
+  position: absolute;
+  top: 11px;
+  left: 965px;
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-mediumseagreen);
+  box-sizing: border-box;
+  width: 245px;
+  height: 33px;
+}
+.free3,
+.tool-bar-child9 {
+  position: absolute;
+  left: 1117px;
+  width: 85px;
+}
+.tool-bar-child9 {
+  top: 18px;
+  background-color: var(--color-gray-100);
+  height: 19px;
+}
+.free3 {
+  top: 16px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-kaisei-decol);
+  color: var(--color-darkslategray-300);
+  text-align: center;
+  display: inline-block;
+}
+.tool-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1444px;
+  height: 108px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-200);
+}
+.child16 {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 440px;
+  height: 237px;
+}
+.contact-now7,
+.solar-rooftop1 {
+  position: absolute;
+  font-weight: 600;
+}
+.solar-rooftop1 {
+  top: 26px;
+  left: 22px;
+  display: inline-block;
+  width: 371px;
+  height: 40px;
+}
+.contact-now7 {
+  top: 173px;
+  left: 37px;
+  color: var(--color-mediumseagreen);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 205px;
+  height: 44px;
+}
+.customized-residential-and1 {
+  position: absolute;
+  top: 77px;
+  left: 22px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 320px;
+  height: 90px;
+}
+.child17 {
+  position: absolute;
+  top: 173px;
+  left: 37px;
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-mediumseagreen);
+  box-sizing: border-box;
+  width: 205px;
+  height: 44px;
+}
+.sr-icon1 {
+  position: absolute;
+  top: 134px;
+  left: 335px;
+  width: 103px;
+  height: 101px;
+  object-fit: cover;
+}
+.div9,
+.fa-icon1 {
+  position: absolute;
+  top: 752px;
+  left: 965px;
+  width: 438px;
+  height: 235px;
+}
+.fa-icon1 {
+  top: 143px;
+  left: 351px;
+  width: 87px;
+  height: 92px;
+  object-fit: cover;
+}
+.div10,
+.vastu1 {
+  position: absolute;
+  top: 752px;
+  left: 503px;
+  width: 438px;
+  height: 235px;
+}
+.vastu1 {
+  top: 26px;
+  left: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 260px;
+  height: 40px;
+}
+.va-icon1 {
+  position: absolute;
+  top: 134px;
+  left: 344px;
+  width: 94px;
+  height: 101px;
+  object-fit: cover;
+}
+.div11,
+.pm-icon1 {
+  position: absolute;
+  top: 752px;
+  left: 41px;
+  width: 438px;
+  height: 235px;
+}
+.pm-icon1 {
+  top: 144px;
+  left: 311px;
+  width: 124px;
+  height: 91px;
+  object-fit: cover;
+}
+.div12 {
+  position: absolute;
+  top: 477px;
+  left: 965px;
+  width: 438px;
+  height: 235px;
+}
+.get-your-property1,
+.property-inspection1 {
+  position: absolute;
+  left: 22px;
+  display: inline-block;
+}
+.property-inspection1 {
+  top: 26px;
+  font-weight: 600;
+  width: 330px;
+  height: 40px;
+}
+.get-your-property1 {
+  top: 77px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+  width: 276px;
+  height: 90px;
+}
+.pi-icon1 {
+  position: absolute;
+  top: 149px;
+  left: 339px;
+  width: 99px;
+  height: 86px;
+  object-fit: cover;
+}
+.contact-now12,
+.div13 {
+  position: absolute;
+  top: 477px;
+  left: 503px;
+  width: 438px;
+  height: 235px;
+}
+.contact-now12 {
+  top: 173px;
+  left: 37px;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 205px;
+  height: 44px;
+}
+.lr-icon1 {
+  position: absolute;
+  top: 146px;
+  left: 342px;
+  width: 96px;
+  height: 89px;
+  object-fit: cover;
+}
+.legal-registration1 {
+  position: absolute;
+  top: 26px;
+  left: 22px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 330px;
+  height: 40px;
+}
+.div14 {
+  position: absolute;
+  top: 477px;
+  left: 41px;
+  width: 438px;
+  height: 235px;
+  color: var(--color-mediumseagreen);
+}
+.zbr-icon1 {
+  position: absolute;
+  top: 128px;
+  left: 320px;
+  width: 118px;
+  height: 107px;
+  object-fit: cover;
+}
+.div15 {
+  position: absolute;
+  top: 202px;
+  left: 965px;
+  width: 438px;
+  height: 235px;
+}
+.book-consultation1 {
+  position: absolute;
+  top: 173px;
+  left: 37px;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 245px;
+  height: 44px;
+}
+.lowest-prices-guaranteed1 {
+  margin-bottom: 0;
+}
+.lowest-prices-guaranteed-10-ye1 {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.lowest-prices-guaranteed-container1 {
+  position: absolute;
+  top: 77px;
+  left: 22px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 301px;
+  height: 90px;
+}
+.child31 {
+  position: absolute;
+  top: 173px;
+  left: 37px;
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-mediumseagreen);
+  box-sizing: border-box;
+  width: 245px;
+  height: 44px;
+}
+.interiors-furnishings1 {
+  position: absolute;
+  top: 26px;
+  left: 22px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 288px;
+  height: 40px;
+}
+.if-icon1 {
+  position: absolute;
+  top: 144px;
+  left: 322px;
+  width: 116px;
+  height: 90px;
+  object-fit: cover;
+}
+.div16 {
+  position: absolute;
+  top: 202px;
+  left: 503px;
+  width: 438px;
+  height: 235px;
+  color: var(--color-mediumseagreen);
+}
+.home-loan1 {
+  position: absolute;
+  top: 26px;
+  left: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 189px;
+  height: 40px;
+}
+.attractive-internet-rates-container1 {
+  position: absolute;
+  top: 77px;
+  left: 22px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 276px;
+  height: 90px;
+}
+.hl-icon1 {
+  position: absolute;
+  top: 144px;
+  left: 341px;
+  width: 97px;
+  height: 91px;
+  object-fit: cover;
+}
+.div17 {
+  position: absolute;
+  top: 202px;
+  left: 41px;
+  width: 438px;
+  height: 235px;
+}
+.everything-you-need1 {
+  position: absolute;
+  top: 130px;
+  left: 42px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1361px;
+  height: 54px;
+}
+.web-page-3 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1020px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
